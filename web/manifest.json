@@ -1,11 +1,11 @@
 {
-    "name": "seven_k_daily",
-    "short_name": "seven_k_daily",
+    "name": "7K Daily - Journal & Activity Tracker",
+    "short_name": "7K Daily",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2196F3",
+    "theme_color": "#2196F3",
+    "description": "Your personal journal and daily activity tracker. Track moods, activities, and daily reflections.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

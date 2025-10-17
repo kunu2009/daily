@@ -1,0 +1,26 @@
+# Build outputs
+build/
+.dart_tool/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Platform-specific
+android/
+ios/
+linux/
+macos/
+windows/
+
+# Misc
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Tests
+test/
